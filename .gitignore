@@ -1,0 +1,6 @@
+.idea/*
+build/*
+cmake-build-debug/*
+.gitignore~
+*.mov
+src/main-original.cpp
